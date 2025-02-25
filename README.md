@@ -20,7 +20,7 @@ cd crud-go
 2. Crea la base de datos en PostgreSQL:
 
 ```sql
-CREATE DATABASE gin_crud;
+CREATE DATABASE gin-crud;
 ```
 
 3. Crea el archivo `.env` en la raíz del proyecto:
