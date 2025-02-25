@@ -29,7 +29,7 @@ CREATE DATABASE gin-crud;
 DB_HOST=localhost
 DB_USER=tu_usuario
 DB_PASSWORD=tu_password
-DB_NAME=gin_crud
+DB_NAME=gin-crud
 DB_PORT=5432
 SSL_MODE=disable
 ```
