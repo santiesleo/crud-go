@@ -1,6 +1,6 @@
 # CRUD con Gin y PostgreSQL 🐹🐘
 
-Este es un proyecto simple de CRUD (Crear, Leer, Actualizar, Eliminar) construido con el framework [Gin](https://gin-gonic.com/) para Go y una base de datos PostgreSQL. 🚀
+Este es un proyecto simple de CRUD (Crear, Leer, Actualizar, Eliminar) construido con el framework [Gin](https://gin-gonic.com/) para Go y una base de datos PostgreSQL.
 
 ## Requisitos 📋
 
@@ -41,7 +41,7 @@ go mod init gin-crud-project
 go get github.com/gin-gonic/gin github.com/lib/pq github.com/joho/godotenv
 ```
 
-## Ejecución 🚀
+## Ejecución
 
 ```bash
 go run main.go
